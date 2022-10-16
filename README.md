@@ -1,4 +1,4 @@
-# Electrum - Lightweight Bitcoin Plus client
+# Electrum - Lightweight Bitcoin+ client
 
 ```
 Licence: MIT Licence
@@ -14,7 +14,7 @@ Homepage: https://electrum.org/
 
 ## Requirements
 
- - Bitcoin Plus Core v22.0: https://github.com/jomagalo/bitcoin
+ - Bitcoin+ Core v22.0: https://github.com/jomagalo/bitcoin
 
 
 ## Getting started
