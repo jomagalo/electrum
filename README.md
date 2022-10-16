@@ -12,6 +12,11 @@ Homepage: https://electrum.org/
 [![Help translate Electrum online](https://d322cqt584bo4o.cloudfront.net/electrum/localized.svg)](https://crowdin.com/project/electrum)
 
 
+## Requerimients
+
+ - Bitcoin Plus Core node: 
+
+
 ## Getting started
 
 _(If you've come here looking to simply run Electrum,
