@@ -14,7 +14,7 @@ Homepage: https://electrum.org/
 
 ## Requerimients
 
- - Bitcoin Plus Core node: 
+ - Bitcoin Plus Core node: https://github.com/jomagalo/bitcoin
 
 
 ## Getting started
