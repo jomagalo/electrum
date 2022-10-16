@@ -14,7 +14,7 @@ Homepage: https://electrum.org/
 
 ## Requirements
 
- - Bitcoin Plus Core node v22.0: https://github.com/jomagalo/bitcoin
+ - Bitcoin Plus Core v22.0: https://github.com/jomagalo/bitcoin
 
 
 ## Getting started
