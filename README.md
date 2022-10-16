@@ -12,9 +12,9 @@ Homepage: https://electrum.org/
 [![Help translate Electrum online](https://d322cqt584bo4o.cloudfront.net/electrum/localized.svg)](https://crowdin.com/project/electrum)
 
 
-## Requerimients
+## Requirements
 
- - Bitcoin Plus Core node: https://github.com/jomagalo/bitcoin
+ - Bitcoin Plus Core node v22.0: https://github.com/jomagalo/bitcoin
 
 
 ## Getting started
