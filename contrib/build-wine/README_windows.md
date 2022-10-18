@@ -9,7 +9,7 @@
 
 ### 1. Check out the code from GitHub:
 ```
-> git clone https://github.com/spesmilo/electrum.git
+> git clone https://github.com/jomagalo/electrum.git
 > cd electrum
 > git submodule update --init
 ```
@@ -50,7 +50,7 @@ Alternatively, MSYS2 and MinGW-w64 can be used directly on Windows, as follows.
   $ GCC_TRIPLET_HOST="x86_64-w64-mingw32" ./contrib/make_libsecp256k1.sh
   ```
 
-(note: this is a bit cumbersome, see [issue #5976](https://github.com/spesmilo/electrum/issues/5976)
+(note: this is a bit cumbersome, see [issue #5976](https://github.com/jomagalo/electrum/issues/5976)
 for discussion)
 
 ### 3. Run electrum: 
