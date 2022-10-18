@@ -31,6 +31,14 @@ If you have access to a Linux machine (e.g. VM) or perhaps even using
 WSL (Windows Subsystem for Linux), you can cross-compile from there to Windows,
 and build this dll:
 ```
+$ sudo apt-get install gcc-mingw-w64
+```
+for 32bit
+```
+$ GCC_TRIPLET_HOST="i686-w64-mingw32" ./contrib/make_libsecp256k1.sh
+```
+for 64bit
+```
 $ GCC_TRIPLET_HOST="x86_64-w64-mingw32" ./contrib/make_libsecp256k1.sh
 ```
 
