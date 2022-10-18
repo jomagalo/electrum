@@ -33,11 +33,11 @@ and build this dll:
 ```
 $ sudo apt-get install gcc-mingw-w64
 ```
-for 32bit
+for 32 bits
 ```
 $ GCC_TRIPLET_HOST="i686-w64-mingw32" ./contrib/make_libsecp256k1.sh
 ```
-for 64bit
+for 64 bits
 ```
 $ GCC_TRIPLET_HOST="x86_64-w64-mingw32" ./contrib/make_libsecp256k1.sh
 ```
