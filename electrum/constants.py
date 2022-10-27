@@ -40,8 +40,8 @@ def read_json(filename, default):
     return r
 
 
-GIT_REPO_URL = "https://github.com/spesmilo/electrum"
-GIT_REPO_ISSUES_URL = "https://github.com/spesmilo/electrum/issues"
+GIT_REPO_URL = "https://github.com/jomagalo/electrum"
+GIT_REPO_ISSUES_URL = "https://github.com/jomagalo/electrum/issues"
 BIP39_WALLET_FORMATS = read_json('bip39_wallet_formats.json', [])
 
 
@@ -81,7 +81,7 @@ class BitcoinMainnet(AbstractNet):
     DEFAULT_PORTS = {'t': '50001', 's': '50002'}
     DEFAULT_SERVERS = read_json('servers.json', {})
     CHECKPOINTS = []
-    BLOCK_HEIGHT_FIRST_LIGHTNING_CHANNELS = 1
+    BLOCK_HEIGHT_FIRST_LIGHTNING_CHANNELS = 6403
 
     XPRV_HEADERS = {
         'standard':    0x0488ade4,  # xprv
