@@ -94,7 +94,7 @@ if TYPE_CHECKING:
 
 SAVED_PR_STATUS = [PR_PAID, PR_UNPAID] # status that are persisted
 
-NUM_PEERS_TARGET = 4
+NUM_PEERS_TARGET = 2
 
 # onchain channel backup data
 CB_VERSION = 0
