@@ -2,7 +2,7 @@
 
 ```
 Licence: MIT Licence
-Author: Thomas Voegtlin
+Author: Jomagalo
 Language: Python (>= 3.8)
 Homepage: https://electrum.nefis.es/
 ```
