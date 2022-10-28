@@ -4,7 +4,7 @@
 Licence: MIT Licence
 Author: Thomas Voegtlin
 Language: Python (>= 3.8)
-Homepage: https://electrum.org/
+Homepage: https://electrum.nefis.es/
 ```
 
 [![Build Status](https://api.cirrus-ci.com/github/spesmilo/electrum.svg?branch=master)](https://cirrus-ci.com/github/spesmilo/electrum)
