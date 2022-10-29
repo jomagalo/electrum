@@ -52,7 +52,8 @@ TRAMPOLINE_FEES = [
 # hardcoded list
 # TODO for some pubkeys, there are multiple network addresses we could try
 TRAMPOLINE_NODES_MAINNET = {
-    'FREEBANK SPAIN':         LNPeerAddr(host='lseed.nefis.es',           port=9735, pubkey=bytes.fromhex('02f839a3c968bd584bf85388780b5165174ab8525dbe58811d1a97619b3b959960')),
+    'Freebank Spain':         LNPeerAddr(host='lseed.nefis.es',           port=9735, pubkey=bytes.fromhex('02f839a3c968bd584bf85388780b5165174ab8525dbe58811d1a97619b3b959960')),
+    'Freebank France':        LNPeerAddr(host='lseed.nefis.es',           port=9735, pubkey=bytes.fromhex('02f6e0920df7bce793bdb29e56ebd5ecb4718d4082fca4412788dabcbe2c18d930')),
 }
 
 TRAMPOLINE_NODES_TESTNET = {
